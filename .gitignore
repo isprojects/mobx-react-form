@@ -3,9 +3,7 @@
 /demo/build
 /demo/node_modules
 /es6
-/lib
 /node_modules
-/umd
 /.nyc_output
 /.idea
 /.bit
